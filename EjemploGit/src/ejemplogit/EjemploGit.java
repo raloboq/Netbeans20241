@@ -14,6 +14,7 @@ public class EjemploGit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        int hola = "HOLAAA";
         System.out.println("esto no se hace :)");
         System.out.println("hola Github :)");
         System.out.println("otra cosa");
